@@ -1,0 +1,12 @@
+# ide
+/.idea/
+
+# easySwoole
+/Log/
+/Temp/
+/Config.php
+/App/ConfigDev/
+/App/Config/
+/dev.php
+easyswoole.install
+/vendor
